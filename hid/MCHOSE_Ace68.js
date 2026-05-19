@@ -1,7 +1,7 @@
 export function Name() { return "MCHOSE Ace 68"; } 
 export function VendorId() { return 0x3837; }
 export function ProductId() { return 0x3003; }
-export function Publisher() { return "Lukkrn"; } 
+export function Publisher() { return "hoopie"; } 
 export function DefaultPosition() { return [10, 10]; }
 export function DefaultScale() { return 5.0; }
 export function DeviceType() { return "Keyboard"; }
