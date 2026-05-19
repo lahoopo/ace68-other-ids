@@ -64,7 +64,7 @@ const vKeys = [
 81, // A
 80, // S
 82, // D
-14, // F
+58, // F
 36, // G
 56, // H
 3, // J
@@ -74,7 +74,7 @@ const vKeys = [
 72, // '
 34, // Enter
 50, // PgUp
-6, // Shift
+6, // Left Shift
 44, // Z
 49, // X
 29, // C
@@ -85,19 +85,19 @@ const vKeys = [
 21, // ,
 1, // .
 32, // /
-41, // Shift
-53, //
+54, // Right Shift
+53, // Up Arrow
 55, // PgDn
-11, // Ctrl
-31, // Win
-71, // Alt
+11, // Left Ctrl
+71, // Left Win
+31, // Left Alt
 63, // Space
-71, // Alt
+61, // Right Alt
 14, // FN
-11, // Ctrl
-33, //
-73, //
-13, // ␦
+74, // Right Ctrl
+33, // Left Arrow
+73, // Down Arrow
+13, // Right Arrow
 ];
 
 const vKeyPositions = [
